@@ -1,2 +1,2 @@
-def ajoute_deux(v):
-	 return v + 2
+def redui_deux(v):
+	 return v - 2
